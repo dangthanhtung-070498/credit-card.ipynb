@@ -7,3 +7,5 @@ Analyze Female Customers Credit Cards Usage of A Bank
 ●	Techniques: Pandas, Seaborn, Matplotlib
 
 ●	Results: The analysis indicates that women exhibit higher credit utilization rates, transaction volumes, and a greater propensity to hold multiple credit cards. A deep understanding of women's consumer behavior is essential for developing effective business strategies.
+
+(Check the powerpoint.pdf for presentation)
